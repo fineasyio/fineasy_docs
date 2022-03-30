@@ -25,12 +25,11 @@ Facilitando o controle de gastos
 
 O Fineasy tem como objetivo auxiliar as pessoas a controlar a saúde financeira. 
 
-Atuamos em 4 pilares:
+Atuamos em 3 pilares:
 
-- Controle de entradas;
-- Controle de saídas;
-- Balanço mensal;
-- Relatórios de custos;
+- Garantir uma melhor saúde financeira para os usuários;
+- Controlar o fluxo de entrada e saída de dinheiro;
+- Facilitar a visualização de dados financeiros do usuário;
 
 ---
 
