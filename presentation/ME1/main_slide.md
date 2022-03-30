@@ -13,7 +13,7 @@ h1 {
 }
 </style>
 
-![bg left:45% 70%](../../images/logo.svg)
+![bg left:45% 70%](../../assets/images/logo.svg)
 
 # Fineasy
 
